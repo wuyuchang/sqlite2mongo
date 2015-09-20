@@ -1,0 +1,17 @@
+{
+  "name": "sqlite2mongo",
+  "version": "1.0.0",
+  "description": "copy data from sqlite3 to mongodb",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "mongodb": "^2.0.43",
+    "sqlite3": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wyc",
+  "license": "ISC"
+}
